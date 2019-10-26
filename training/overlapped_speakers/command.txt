@@ -1,0 +1,1 @@
+python prepare.py D:\\ProjectsCodeBlocks\\LipNet\\datasets\\videos\\ D:\\ProjectsCodeBlocks\\LipNet\\datasets\\align\\ 100
